@@ -1,0 +1,13 @@
+{
+  "name": "static",
+  "authors": [
+    "dasz"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
