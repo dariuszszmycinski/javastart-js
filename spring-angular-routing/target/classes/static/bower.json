@@ -1,0 +1,15 @@
+{
+  "name": "angular routing",
+  "authors": [
+    "dasz"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.2",
+    "angular-resource": "^1.8.2"
+  }
+}
